@@ -43,3 +43,5 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+Gem here, fuelled by coffee and surrounded by dogs! Looking forward to learning how to create many future project here on Github
